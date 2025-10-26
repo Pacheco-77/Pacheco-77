@@ -1,16 +1,17 @@
-## Hi there 👋
+# 👋 Hi there! I'm Wamberson Pacheco
 
-<!--
-**Pacheco-77/Pacheco-77** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 Information Systems student — 6th semester  
+🏫 Federal University of Amazonas (UFAM - ICET)  
+📍 Based in Itacoatiara, Amazonas, Brazil
 
-Here are some ideas to get you started:
+I'm passionate about technology, software development, and building creative solutions. I enjoy learning new tools and contributing to projects that make a difference.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🚀 Technologies I'm working with
+- **Languages**: Python, JavaScript, Java
+- **Frameworks**: React, Node.js, Django
+- **Tools**: Git, VS Code, Postman, Figma
+
+
+
+> “Technology moves the world.” – Steve Jobs
+
